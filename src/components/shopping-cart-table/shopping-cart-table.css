@@ -1,0 +1,18 @@
+.shopping-cart-table {
+  margin: 15px 0 0;
+}
+
+.order-title {
+  margin-bottom: 15px;
+}
+
+.shopping-cart-table button {
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+.cart-total {
+  font-size: 20px;
+  margin: 20px 0;
+  text-align: right;
+}     

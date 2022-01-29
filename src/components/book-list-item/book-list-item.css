@@ -1,0 +1,30 @@
+.book-list-item {
+  display: flex;
+  padding: 15px 0;
+}
+
+.book-cover {
+  max-width: 150px;
+  margin-right: 30px;
+}
+.book-cover img {
+  width: 100%;
+}
+
+.book-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.book-details__title {
+  font-size: 32px;
+}
+
+.book-details__text {
+  font-size: 22px;
+}
+
+.add-to-cart {
+  font-size: 20px;
+}

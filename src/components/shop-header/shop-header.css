@@ -1,0 +1,22 @@
+.shop-header {
+  justify-content: space-between;
+  margin: 10px 0;
+  align-items: center;
+}
+
+.logo {
+  font-size: 38px;
+  font-family: 'Playfair Display', serif;
+}
+
+.cart-text {
+  font-size: 22px;
+  cursor: pointer;
+  color: #000
+}
+
+.cart-icon {
+  font-size: 24px;
+  margin-right: 10px;
+  color: rgb(61, 134, 251);
+}

@@ -1,0 +1,20 @@
+.menu {
+  display: inline-flex;
+  padding: 14px 0;
+  font-size: 24px;
+}
+
+.menu li:not(:last-child) {
+  margin-right: 20px;
+  border: none;
+}
+
+.menu__link {
+  color: rgb(59, 59, 59);
+  text-decoration: none !important;
+}
+
+.menu__link:hover {
+  color: rgb(119, 119, 119);
+  text-decoration: none;
+}
